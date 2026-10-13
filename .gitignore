@@ -5,8 +5,10 @@
 *.key
 *.pem
 
-# Working notes, not part of the project
+# Working notes and local AI context
 notes/
+CLAUDE.md
+.claude/
 
 # Python
 .venv/
